@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vomini/static/css/main.9c886cd2.css",
-    "main.js": "/vomini/static/js/main.06b554ab.js",
+    "main.js": "/vomini/static/js/main.7fc8dc8c.js",
     "static/media/image-fotor.png": "/vomini/static/media/image-fotor.2b6f740868e512b1586d.png",
     "index.html": "/vomini/index.html",
     "main.9c886cd2.css.map": "/vomini/static/css/main.9c886cd2.css.map",
-    "main.06b554ab.js.map": "/vomini/static/js/main.06b554ab.js.map"
+    "main.7fc8dc8c.js.map": "/vomini/static/js/main.7fc8dc8c.js.map"
   },
   "entrypoints": [
     "static/css/main.9c886cd2.css",
-    "static/js/main.06b554ab.js"
+    "static/js/main.7fc8dc8c.js"
   ]
 }
