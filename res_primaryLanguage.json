@@ -38,8 +38,6 @@
           }
         ]
       },
-<<<<<<< HEAD
-=======
       {
         "title": "Podcast Summarizer Using WhisperX",
         "startDate": "Dec 2023 - Feb 2024",
@@ -54,7 +52,7 @@
           }
         ]
       },
->>>>>>> origin/main
+
       
       {
         "title": "Implementation of Transient Memory in FoundationDB",
@@ -124,8 +122,7 @@
             "name": "AWS Codebuild "
           }
         ]
-<<<<<<< HEAD
-=======
+
       },{
         "title": "Stock Visualizer and Forecasting",
         "startDate": "May 2023 - June 2023",
@@ -144,7 +141,7 @@
             "name": "Python"
           }
         ]
->>>>>>> origin/main
+
       },
       {
         "title": "Geo Spatial Data Handling and Manipulation",
@@ -250,8 +247,7 @@
         ]
       },
       {
-<<<<<<< HEAD
-=======
+
         "title": "Food Donation Management Platform",
         "startDate": "Jan 2022 - March 2022",
         "description": "During a college hackathon, I worked on a React.js and Flask-based web platform to facilitate efficient coordination between food donors and an NGO. I implemented a feature using the Google Maps API to display optimal routes for collecting food donations, streamlining the logistics process. I also developed a recommendation system using a matrix-based collaborative filtering algorithm to suggest recipes based on available donated ingredients, optimizing resource utilization and minimizing food waste.",
@@ -280,7 +276,7 @@
         ]
       },
       {
->>>>>>> origin/main
+
         "title": "Blockchain-based Supply Chain Management System",
         "startDate": "Oct 2021 - Dec 2021",
         "description": "In enhancing Pharmaceutical Supply Chain Management, I implemented a decentralized structure using blockchain to validate data and combat counterfeit medicines. Smart Contracts, developed in Solidity on the Remix IDE, stored and verified information for all entities, integrated with a ReactJs-based user interface. The system enabled secure retrieval of verified data by fetching encrypted batch IDs from QR codes, showcasing my technical skills in blockchain, Smart Contract development, and user interface integration for robust supply chain solutions.",
@@ -300,8 +296,7 @@
         ]
       },
       {
-<<<<<<< HEAD
-=======
+
         "title": "Health and Wellness Application",
         "startDate": "Oct 2021 - Nov 2021",
         "description": "I conceptualized and built an Android application called 'Global Health Recipes' that covers four key areas of health and wellness: Physiotherapy, Nutrition, Fitness Training, and Yoga. The app showcases professionals from each field, providing details about their location, services, relevant images, pricing, and customer feedback. I utilized MongoDB for effective data management.",
@@ -322,7 +317,7 @@
       },
       
       {
->>>>>>> origin/main
+
         "title": "XAI for Population Health Management",
         "startDate": "June 2021 - Dec 2021",
         "description": "Developed a clinical decision support system for chronic diseases, particularly focusing on diabetes, using Explainable AI (XAI) techniques. Leveraging features like Anchors, Shapley, and LIME on the Diabetes Dataset in Python, I identified key factors influencing diagnosis likelihood. The project explored the impact of feature variations on disease probability and post-diagnosis severity. The machine learning model, implemented with XGBoost, demonstrated a high accuracy of 98%, showcasing my adept use of advanced XAI methodologies for transparent and effective healthcare solutions.",
@@ -337,10 +332,7 @@
           }
         ]
       },
-<<<<<<< HEAD
-=======
-      
->>>>>>> origin/main
+
       {
         "title": "Page Replacement Algorithm Website",
         "startDate": "Sep 2021 - Nov 2021",
