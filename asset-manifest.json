@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vomini209%20/static/css/main.9c886cd2.css",
-    "main.js": "/vomini209%20/static/js/main.15710257.js",
-    "static/media/image-fotor.png": "/vomini209%20/static/media/image-fotor.2b6f740868e512b1586d.png",
-    "index.html": "/vomini209%20/index.html",
-    "main.9c886cd2.css.map": "/vomini209%20/static/css/main.9c886cd2.css.map",
-    "main.15710257.js.map": "/vomini209%20/static/js/main.15710257.js.map"
+    "main.css": "/vomini209/static/css/main.9c886cd2.css",
+    "main.js": "/vomini209/static/js/main.14413070.js",
+    "static/media/image-fotor.png": "/vomini209/static/media/image-fotor.2b6f740868e512b1586d.png",
+    "index.html": "/vomini209/index.html",
+    "main.9c886cd2.css.map": "/vomini209/static/css/main.9c886cd2.css.map",
+    "main.14413070.js.map": "/vomini209/static/js/main.14413070.js.map"
   },
   "entrypoints": [
     "static/css/main.9c886cd2.css",
-    "static/js/main.15710257.js"
+    "static/js/main.14413070.js"
   ]
 }
