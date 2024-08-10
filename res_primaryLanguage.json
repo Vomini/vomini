@@ -374,39 +374,31 @@
     ],
     "experience": [
       {
-        "company": "NearSure",
-        "title": "Software Engineer",
-        "years": "09.2022 - Current",
+        "company": "CGR Capital LLC",
+        "title": "Front-End Developer",
+        "years": "06.2022 - 08.2022",
         "mainTech": [
-          "React.js",
-          "AWS",
-          "NodeJs"
+          "React.js"
         ],
-        "details":"Nearsure collaborated with Branch to enhance their software platform by improving user engagement, scalability, and performance. My responsibilities included managing and enhancing the front-end capabilities using technologies like React, Redux, and TypeScript, and developing a dynamic user dashboard for policy management and claim tracking. I optimized the application’s performance through techniques like code splitting and lazy loading, ensured consistent application state with Redux, and implemented dynamic routing to improve navigation. Additionally, I conducted extensive debugging using Jest and React Testing Library, utilized AWS for hosting and deploying, and coordinated with cross-functional teams to meet project milestones in an Agile environment."
+        "details":"Utilized Figma to design and wireframe the UI/UX for a Smart Real Estate Management Web Application. Implemented React and Tailwind CSS to create intuitive web pages showcasing crucial information, such as customer real estate portfolios, investment reports, and exit strategies. Developed a user-friendly Live Deal Analyzer/Simulator page that dynamically simulates financial performance and key metrics based on user input. Integrated the front-end with the back-end, ensuring the complete functionality of the Web Application."
       },
       {
-        "company": "OpenxCell",
-        "title": "Full Stack Engineer",
-        "years": "06.2020 - 07.2022",
+        "company": "Blackcoffer",
+        "title": "Data Science Intern",
+        "years": "12.2021 - 04.2022",
         "mainTech": [
-          "ReactJs",
-          "Node.js",
-          "MySQL",
-          "AWS"
+          "Python"
         ],
-        "details":"At OpenXcell, I served as a Full Stack Engineer on a project developing procurement management software tailored for the construction industry from June 2020 to July 2022. My role involved creating a responsive front-end using ReactJS and Redux for state management, and building a robust back-end with Node.js and Express.js to manage vendor and project data. I optimized MySQL database performance, integrated AWS services for scalability, and implemented real-time chat features using WebSocket. Additionally, I customized Google Maps API for location-based project data and led a cross-functional team to deliver key features on time, ensuring a high-quality, efficient platform."
+        "details":"Created automated software tools using Python Beautiful Soup, Google Sheets API, Twitter API, and PostgreSQL to efficiently retrieve and store data from diverse platforms like Google Ads Services and Twitter. Designed impactful Analytics Dashboards in Google Data Studio, delivering visually insightful user behavior summaries. Presented monthly metrics to clients (e.g., Decorium, LiveLike) using Google Analytics and Whatagraph, achieving a steady 5-10% month-by-month website traffic growth and a significant 6% overall increase in user engagement."
       },
       {
-        "company": "Moweb Solutions",
-        "title": "FrontEnd Engineer",
-        "years": "08.2018 - 05.2020",
+        "company": "Gujarat Energy Research and Management Institute",
+        "title": "Software Developer Intern",
+        "years": "06.2021 - 08.2021",
         "mainTech": [
-          "ReactJs",
-          "Node.js",
-          "MongoDB",
-          "Git"
+          "Python"
         ],
-        "details":"At Moweb Solutions, I worked as a FrontEnd Engineer on the EA Fruits e-commerce platform from August 2018 to May 2020. My responsibilities included developing a responsive front-end with ReactJS, implementing dynamic navigation using React Router, and building RESTful APIs with Node.js and Express.js to support real-time inventory updates and order processing. I designed a scalable MongoDB database schema and created a dynamic order tracking feature to enhance customer satisfaction. Additionally, I implemented continuous integration and deployment pipelines, optimized application performance through techniques like code splitting and lazy loading, and collaborated with cross-functional teams using Agile methodologies to ensure timely delivery of key features while maintaining high code quality through extensive testing."
+        "details":"Developed a Python and XML-based Web App for HR Absence Management, optimizing the time-off request submission process. Engineered features including support for multiple leave types, two-step approvals, and automated email notifications to both managers and HR, facilitating seamless leave request submissions by employees."
       }
     ],
     "education": [
